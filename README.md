@@ -1,4 +1,4 @@
-# Flutter-Demo-Project-
+# Flutter-Demo-Project
 Random Features<br/>
 Learn though practice<br/>
 For the purpose of self-monitoring<br/>
